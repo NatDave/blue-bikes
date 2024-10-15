@@ -1,4 +1,5 @@
-# IE 6200: Fundamentals of Probability and Statistics
+# IE 6200
+  ## Fundamentals of Probability and Statistics
 
 This repository was created for the course **IE 6200: Fundamentals of Probability and Statistics** during my studies at Northeastern University. It contains resources, assignments, and projects related to the fundamental concepts of probability and statistics, essential for engineering and data science applications. The repository primarily features code related to the course project, showcasing my understanding and application of the concepts learned throughout the course. All projects and solutions were **completed by me**.
 
