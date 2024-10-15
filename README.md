@@ -38,7 +38,7 @@ This course also requires a solid understanding of multivariate calculus, which 
 
 ## Project Overview: Bluebikes
 
-One of the primary projects in this course focuses on analyzing the Bluebikes data. This project utilizes various statistical methods to understand usage patterns, predict demand, and evaluate the factors influencing bike-sharing behaviors in urban environments. The code includes data cleaning, exploratory data analysis, and modeling techniques to extract meaningful insights from the dataset.
+One of the primary projects in this course focuses on analyzing the Bluebikes data. This project utilizes various statistical methods to understand usage patterns, predict demand, and evaluate the factors influencing bike-sharing behaviors in urban environments. The code includes data cleaning, exploratory data analysis, and modeling techniques to extract meaningful insights from the [dataset](https://bluebikes.com/system-data).
 
 ## Contact
 
